@@ -71,7 +71,7 @@ nav {
 ========================================*/
 .hero {
   height: 500px;
-  background-image: url("/images/park.jpg");
+  background-image: url("../images/park.jpg");
   background-size: cover;
   background-position: left;
   padding-top: 20px;
